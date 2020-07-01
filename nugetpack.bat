@@ -1,0 +1,1 @@
+nuget pack MyProject.csproj -properties Configuration=Release
